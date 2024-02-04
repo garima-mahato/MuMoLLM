@@ -10,6 +10,7 @@
         <div style="display:flex; gap: 0.25rem;" align="center">
             <a href='https://github.com/garima-mahato/MuMoLLM'><img src='https://img.shields.io/badge/Github-Code-blue'></a>
             <a href='https://github.com/garima-mahato/MuMoLLM/stargazers'><img src='https://img.shields.io/github/stars/garima-mahato/MuMoLLM.svg?style=social'></a>
+            <a href='https://www.youtube.com/watch?v=0DCZLFmnV0s'><img src='https://img.shields.io/badge/youtube-badge'></a>
         </div>
     </div>
 </div>
@@ -18,6 +19,10 @@
 **We recommend only one image or video per conversation session.** 
 
 If you want to start chatting with new images or videos, we recommend you to **CLEAR** the history to restart.
+
+### Demo
+
+[![](https://img.youtube.com/vi/0DCZLFmnV0s/0.jpg)](https://www.youtube.com/watch?v=0DCZLFmnV0s)
 
 
 #### Input
@@ -150,3 +155,8 @@ Step	Training Loss	Validation Loss
 1940	1.824300	1.617798
 1960	1.646700	1.619327
 ```
+
+
+## What could have been done better?
+
+1) Better model and infrastructure for training and deployment
