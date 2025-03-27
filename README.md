@@ -2,7 +2,7 @@
 ## Multi-Modal LLM for Chat GPT like Conversations
 
 <div align="center" background-color="#8bd4e2">
-    <h1 align="center"><a href="https://github.com/garima-mahato/MuMoLLM"><img src="https://raw.githubusercontent.com/garima-mahato/MuMoLLM/main/images/mumo_logo.png", alt="MuMo" border="0" style="margin: 0 auto; height: 200px;" /></a> </h1>
+    <h1 align="center"><a href="https://huggingface.co/spaces/garima-mahato/MuMoLLM"><img src="https://raw.githubusercontent.com/garima-mahato/MuMoLLM/main/images/mumo_logo.png", alt="MuMo" border="0" style="margin: 0 auto; height: 200px;" /></a> </h1>
     <h2 align="center"> MuMo: Multi-Modal Chatter </h2>
     <h5 align="center"> If you like this project, please give a star ✨ on Github.  </h2>
     <h5 align="center"> Note: This version is not multilingual demo </h5>
